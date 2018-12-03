@@ -6,7 +6,7 @@ This repository has 5 files:
    linked list file that has all the definitions of list operations performed,
    and operation file that has definitions for the operations performed on complex number
 
-Output:
+Output of code:
 
 Assignment 01
 
